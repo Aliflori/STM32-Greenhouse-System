@@ -7,7 +7,7 @@
 This repository contains a complete embedded system project for a **Smart Greenhouse Monitoring and Control System**. The system is built around an **STM32F1 series microcontroller** and is designed to automate the environmental control of a greenhouse, ensuring optimal conditions for plant growth while providing remote alerting capabilities. The entire project, including all hardware components and their interactions, was simulated using **Proteus Design Suite**.
 
 This was developed as the final project for a Microprocessor Systems course.
-
+PROTEUS.PDF
 ## ✨ System Features
 
 The system integrates a variety of sensors and actuators to create a fully autonomous environment.
